@@ -1,4 +1,6 @@
-<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Deivison Ortega</h1>
+<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Deivison Ortega.</h1>
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋👋;Tengo+19+años;Vivo+En+Bogotá;Estudio+en+el+SENA;)
 
 <br>
 
