@@ -15,7 +15,7 @@
 - :nerd_face: Siempre `Aprendiendo Cosas Nuevas`.
 <br>
 
-## 🛠️ Mi Skills
+## 🛠️ Mis Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programación
 
